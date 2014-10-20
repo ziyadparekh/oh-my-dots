@@ -36,7 +36,6 @@ apps=(
   bettertouchtool
   dash
   caffeine
-  boot2docker
 )
 
 # fonts
